@@ -104,7 +104,7 @@ Os dados utilizados são públicos e foram extraídos do site da [ANEEL](https:/
 
 ## 📧 **Contato**
 
-Conecte-se no [LinkedIn](https://www.linkedin.com) para trocarmos ideias sobre dados e o setor elétrico.
+Conecte-se no [LinkedIn](https://www.linkedin.com/in/diego-juliano-lima-figueredo-7112816a/) para trocarmos ideias sobre dados e o setor elétrico.
 
 ---
 
