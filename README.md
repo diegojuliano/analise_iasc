@@ -85,8 +85,8 @@ As distribuidoras com menor satisfação média indicam desafios regionais ou es
 
 Este projeto faz parte do meu **portfólio de Análise de Dados no Setor Elétrico**, com foco em **criar estudos aplicados, limpos e úteis para tomada de decisão e aprendizado regulatório**.
 
-**Diego Juliano Lima**  
-Analista de Dados e Processos | Estudante de Python e Regulação no Setor Elétrico
+**Diego Juliano Lima Figueredo**  
+Analista de Dados e Processos | Python e Regulação no Setor Elétrico
 
 ---
 
